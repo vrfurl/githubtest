@@ -11,5 +11,6 @@ public class App
         System.out.println( "Hello World!" );
         
         System.out.println( "Hello World  with a little Twist" );
+        System.out.println( "Hello World  with a little Twist" );
     }
 }
